@@ -58,4 +58,4 @@
 
 * *git log master* - показать коммиты в указанной ветке 
 
-* *git checkout master* - переход на ветку
+* *git checkout master* - переход на ветку master
