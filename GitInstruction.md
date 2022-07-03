@@ -52,7 +52,9 @@
 
 * *git merge* - команда, осуществляющая слияние текущей ветки с branch_name;
 
-* *git branch new_branch_name -  создаем новую ветку 
+* *git branch new_branch_name* -  создаем новую ветку 
 
-* *git branch -d branch_to_delete - удаляем ветку
+* *git branch -d branch_to_delete* - удаляем ветку
+
+* *git log master* - показать коммиты в указанной ветке 
 
